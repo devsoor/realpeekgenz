@@ -1,0 +1,6 @@
+# Editors / OS
+*.swp
+.DS_Store
+functions/mlsimport/composer.phar
+.idea/
+functions/reports/TESTDATA_DEL/
